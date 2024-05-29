@@ -12,7 +12,7 @@ Detta projekt är en JavaScript-baserad labyrintgenerator och -lösare. Applikat
 ## Demo
 
 <p align="center">
-  <img src="mazeAntongif.gif" alt="Demo av labyrinten" width="300"/>
+  <img src="mazeAntongif.gif" alt="Demo av labyrinten" width="500"/>
 </p>
 
 ## Så här använder du
