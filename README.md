@@ -9,6 +9,12 @@ Detta projekt är en JavaScript-baserad labyrintgenerator och -lösare. Applikat
 - **Vägsökning:** Implementerar en enkel sökalgoritm för att hitta en väg från start till slut av labyrinten.
 - **Visualisering:** Visar labyrinten och sökprocessen visuellt.
 
+## Demo
+
+<p align="center">
+  <img src="mazeAntongif.gif" alt="Demo av labyrinten" width="300"/>
+</p>
+
 ## Så här använder du
 
 1. **Ladda HTML-filen:** Öppna HTML-filen i en webbläsare.
